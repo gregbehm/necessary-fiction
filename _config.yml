@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: fastpages blog
-description: Hey you!
+description:
 github_username: gregbehm
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "necessary-fiction"
