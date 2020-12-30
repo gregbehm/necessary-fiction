@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Test Post",
+            "title": "Testing Markdown posts in Fastpages",
             "content": "Testing Markdown posts in Fastpages . Hello, world! .",
-            "url": "https://gregbehm.github.io/necessary-fiction/2020/12/29/test-post.html",
-            "relUrl": "/2020/12/29/test-post.html",
+            "url": "https://gregbehm.github.io/necessary-fiction/markdown/2020/12/29/test-post.html",
+            "relUrl": "/markdown/2020/12/29/test-post.html",
             "date": " • Dec 29, 2020"
         }
         
