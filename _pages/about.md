@@ -4,4 +4,4 @@ title: About me
 permalink: /about/
 ---
 
-Software engineer living and working in Colorado USA. When I code, I prefer Python.
+I'm a software engineer who lives and works in Colorado, USA. When I write code, I prefer Python.
